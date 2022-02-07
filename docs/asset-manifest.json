@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/carsApp/static/css/main.d7f53cbc.css",
+    "main.js": "/carsApp/static/js/main.e7b10cfa.js",
+    "static/media/kavak2.jpg": "/carsApp/static/media/kavak2.ecf6dea24aa187eb670e.jpg",
+    "static/media/kavak.png": "/carsApp/static/media/kavak.154b291b2d5eb8476281.png",
+    "static/media/dodge-charger.jpg": "/carsApp/static/media/dodge-charger.61bcb0e41b36e6664fee.jpg",
+    "static/media/chevrolet-mustang.jpg": "/carsApp/static/media/chevrolet-mustang.f76948f5dc5e195c5a45.jpg",
+    "static/media/nissan-sentra.jpg": "/carsApp/static/media/nissan-sentra.083004521c173dac5ba0.jpg",
+    "static/media/dodge-challenger.jpg": "/carsApp/static/media/dodge-challenger.cbed783a534965b53e38.jpg",
+    "static/media/mazda-mx-5.jpg": "/carsApp/static/media/mazda-mx-5.747e47067b8488891637.jpg",
+    "index.html": "/carsApp/index.html",
+    "main.d7f53cbc.css.map": "/carsApp/static/css/main.d7f53cbc.css.map",
+    "main.e7b10cfa.js.map": "/carsApp/static/js/main.e7b10cfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f53cbc.css",
+    "static/js/main.e7b10cfa.js"
+  ]
+}
