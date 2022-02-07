@@ -1,0 +1,106 @@
+
+.kavak__image{
+    //box-shadow: 5px 5px $dark-grey;
+    width: 100%;
+
+}
+
+.kavak__container{
+    position: relative;
+    display: inline-block;
+    
+}
+
+.kavak__text-infront_title{
+    position: absolute;
+    color: white;
+    top: 22%;
+    left: 8%;
+    font-size: 45px;
+    justify-content: left;
+    text-align: left;
+}
+
+.kavak__text-infront_subtitle{
+    position: absolute;
+    color: white;
+    top: 45%;
+    left: 8%;
+    font-size: 25px;
+}
+
+.kavak__btn-infront{
+    position: absolute;
+    top: 60%;
+    left: 8%;
+    justify-content: center;
+    text-align: center;
+}
+
+.kavak__centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.kavak__navbar{
+    padding-top: 70px;
+}
+
+.kavak__title{
+    font-size: 50px;
+}
+
+.kavak_container2{
+    display: flex;
+    overflow-x: auto;
+}
+
+.menu-item {
+    padding: 0 40px;
+    margin: 5px 10px;
+    user-select: none;
+    cursor: pointer;
+    border: none;
+  }
+  .menu-item-wrapper.active {
+    border: 1px blue solid;
+  }
+  .menu-item.active {
+    border: 1px green solid;
+  }
+  
+  .scroll-menu-arrow {
+    padding: 20px;
+    cursor: pointer;
+  }
+
+  .account{
+    pointer-events: none
+  }
+
+  .kavak_containersearch{
+    background-color: #3374DB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    
+ }
+
+ .searchbox{
+     width: 1128px;
+     height: 48px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+
+ .kavak_containersearch2{
+    //background-color: red;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+    width: 100vw;   
+ }
+

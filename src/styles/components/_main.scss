@@ -1,0 +1,14 @@
+.main__content{
+    align-items: center;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; //center vertically
+    //height: 100vh;
+    padding-top: 88px;
+
+    p{
+        text-align: center;
+    }
+}
